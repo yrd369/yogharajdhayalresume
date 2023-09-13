@@ -159,6 +159,9 @@ a {
     color: #fff;
     text-decoration: none;
 }
+a:hover{
+    color:  #2a7da2;
+}
 
 .interest {
     margin-top: 40px;
