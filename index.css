@@ -151,12 +151,13 @@ body {
 .fa {
     color: #03a9f4;
 }
-#bar {
+progress {
     display: flex;
     justify-content: center;
 }
 a {
     color: #fff;
+    text-decoration: none;
 }
 
 .interest {
